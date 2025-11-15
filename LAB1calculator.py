@@ -20,4 +20,5 @@ print(f"Revenue: ${revenue:,.2f}")
 print(f"Costs: ${costs:,.2f}")
 print(f"Profit: ${profit:,.2f}")
 print(f"Profit Margin: {margin:.1f}%")
+
                        
