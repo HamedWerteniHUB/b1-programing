@@ -15,4 +15,4 @@ print(f"Your grade is: {grade}")
 
 # Bonus: print encouragement for top grades
 if grade == "A":
-    print("Excellent work!")
+    print("Excellent!")
